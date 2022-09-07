@@ -1,7 +1,7 @@
-# DEADLY SPAMBOT
+# 𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩
 
 <p align="center">
-  <img src="https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg">
+  <img src="https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg">
 </p>
 
 
@@ -18,8 +18,8 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/Deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Deadly_spambot"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DollxSpam_BOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Dollx_spambot"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
