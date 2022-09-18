@@ -18,7 +18,7 @@ apt update && apt upgrade -y
 apt install git -y
 _other_installs
 pip3 install -U pip
-git clone https://github.com/dominator454/DollXSpamBot Github_Repo
+git clone https://github.com/DOMINATOR-XD/DollXSpamBot Github_Repo
 cd Github_Repo
 pip3 install -U -r requirements.txt
 _externals
