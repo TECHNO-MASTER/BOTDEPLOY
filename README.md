@@ -32,4 +32,4 @@
 
 ## credits 
 
-DEADLY
+*DollXSpam_Bot
