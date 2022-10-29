@@ -1,6 +1,6 @@
 
 {
-    "name": "𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩",
+    "name": "𝙎𝙥𝙖𝙢 𝘽𝙤𝙩",
     "description": "MOST POWERFUL + STABLE SPAM BOTS",
     "logo": "https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg",
     "keywords": [
@@ -10,9 +10,9 @@
         "deadlySameer",
         "SpamBots"
     ],
-    "repository": "https://t.me/DollxSpam_BOT",
-    "website": "https://t.me/DollxSpam_BOT",
-    "success_url": "https://t.me/DollxSpam_BOT",
+    "repository": "https://github.com/TECHNO-MASTER/BOTDEPLOY",
+    "website": "https://github.com/TECHNO-MASTER/BOTDEPLOY",
+    "success_url": "https://github.com/TECHNO-MASTER/BOTDEPLOY",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
