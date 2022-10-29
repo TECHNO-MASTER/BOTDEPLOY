@@ -2,7 +2,7 @@
 {
     "name": "𝙎𝙥𝙖𝙢 𝘽𝙤𝙩",
     "description": "MOST POWERFUL + STABLE SPAM BOTS",
-    "logo": "https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg",
+    "logo": "https://telegra.ph/file/af4d078f6feba0fef9cd5.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -21,7 +21,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://telegra.ph/file/af4d078f6feba0fef9cd5.jpg",
         "required": false
       },
       "API_HASH": {
@@ -86,7 +86,7 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "2128554309",
             "required": false
         },
       "OWNER_ID": {
