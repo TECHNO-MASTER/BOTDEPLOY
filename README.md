@@ -32,4 +32,4 @@
 
 ## credits 
 
-*DollXSpam_Bot
+-DollXSpam_Bot
