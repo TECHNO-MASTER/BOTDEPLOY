@@ -1,7 +1,7 @@
-# 𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩
+# 𝙎𝙥𝙖𝙢𝘽𝙤𝙩
 
 <p align="center">
-  <img src="https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg">
+  <img src="https://telegra.ph/file/af4d078f6feba0fef9cd5.jpg">
 </p>
 
 
